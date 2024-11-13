@@ -313,8 +313,8 @@ https://www.data.go.kr/data/15126468/openapi.do#/API%20%EB%AA%A9%EB%A1%9D/getRTM
 - 계약일 기준
 - 전국구 데이터는 최근 한달까지만 조회가능.....................
 ## API로 csv 조회
-![api1](./backend/img/img-DB 1.png)
-![api2](./backend/img/img-DB 2.png)
+![api1](./backend/img/img-DB1.png)
+![api2](./backend/img/img-DB2.png)
 
 ```
 URL : [POST] https://rt.molit.go.kr/pt/xls/ptXlsCSVDown.do?
